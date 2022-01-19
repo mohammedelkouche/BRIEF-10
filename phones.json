@@ -28,7 +28,6 @@
             "prix": " 959 € ",
             "catégorie": " iPhone ",
             "disponibilité": [
-                " Paris ",
                 " Casablanca ",
                 " Madrid ",
                 " Pékin ",
@@ -37,6 +36,7 @@
                 " London ",
                 " Milan ",
                 " New York ",
+                " Paris ",
                 " Le Caire ",
                 " Tokyo ",
                 " Marrakech "
