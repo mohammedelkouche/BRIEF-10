@@ -4,8 +4,8 @@
             "ID": "861536030196001",
             "désignation": " Galaxy S21+ 5G ",
             "prix": " 859 €",
-            " catégorie": " Samsung Galaxy ",
-            " disponibilité": [
+            "catégorie": " Samsung Galaxy ",
+            "disponibilité": [
                 " Paris ",
                 " Casablanca ",
                 " Madrid ",
@@ -17,17 +17,17 @@
                 " Agadir ",
                 " Marrakech "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
         {
-            " ID ": " 311596030136021 ",
-            " désignation ": " iPhone 12 Pro ",
-            " prix ": " 959 € ",
-            " catégorie": " iPhone ",
-            " disponibilité": [
+            "ID": " 311596030136021 ",
+            "désignation": " iPhone 12 Pro ",
+            "prix": " 959 € ",
+            "catégorie": " iPhone ",
+            "disponibilité": [
                 " Paris ",
                 " Casablanca ",
                 " Madrid ",
@@ -41,17 +41,17 @@
                 " Tokyo ",
                 " Marrakech "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
         {
-            " ID ": " 921591030186125 ",
-            " désignation ": " Huawei P30 Pro ",
-            " prix ": " 640 € ",
-            " catégorie": " Huawei  ",
-            " disponibilité": [
+            "ID": " 921591030186125 ",
+            "désignation": " Huawei P30 Pro ",
+            "prix": " 640 € ",
+            "catégorie": " Huawei  ",
+            "disponibilité": [
                 " Paris ",
                 " Casablanca ",
                 " Madrid ",
@@ -65,17 +65,17 @@
                 " Tokyo ",
                 " Marrakech "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
         {
-            " ID ": " 521536030913021 ",
-            " désignation ": " Oppo A53s ",
-            " prix ": " 244 € ",
-            " catégorie": " Oppo  ",
-            " disponibilité": [
+            "ID": " 521536030913021 ",
+            "désignation": " Oppo A53s ",
+            "prix": " 244 € ",
+            "catégorie": " Oppo  ",
+            "disponibilité": [
                 " Casablanca ",
                 " Madrid ",
                 " Pékin ",
@@ -87,17 +87,17 @@
                 " Le Caire ",
                 " Tokyo "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
         {
-            " ID ": " 191136090213493 ",
-            " désignation ": " Nokia 7 plus ",
-            " prix ": " 381, 71 € ",
-            " catégorie": " Nokia  ",
-            " disponibilité": [
+            "ID": " 191136090213493 ",
+            "désignation": " Nokia 7 plus ",
+            "prix": " 381, 71 € ",
+            "catégorie": " Nokia  ",
+            "disponibilité": [
                 " Casablanca ",
                 " Pékin ",
                 " Ottawa",
@@ -107,17 +107,17 @@
                 " New York ",
                 " Tokyo "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
         {
-            " ID ": " 3936290713491 ",
-            " désignation ": " iPhone 11 Pro Max ",
-            " prix ": " 704 €  ",
-            " catégorie": " iPhone ",
-            " disponibilité": [
+            "ID": " 3936290713491 ",
+            "désignation": " iPhone 11 Pro Max ",
+            "prix": " 704 €  ",
+            "catégorie": " iPhone ",
+            "disponibilité": [
                 " Casablanca ",
                 " Madrid ",
                 " Ottawa",
@@ -126,8 +126,8 @@
                 " New York ",
                 " Tokyo "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
@@ -135,8 +135,8 @@
             "ID": "921536030192039",
             "désignation": " Samsung Galaxy A50 ",
             "prix": " 229,29 €",
-            " catégorie": " Samsung Galaxy ",
-            " disponibilité": [
+            "catégorie": " Samsung Galaxy ",
+            "disponibilité": [
                 " Casablanca ",
                 " Madrid ",
                 " Tangier ",
@@ -146,8 +146,8 @@
                 " New York ",
                 " Le Caire "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -155,8 +155,8 @@
             "ID": "161516034192909",
             "désignation": " Sony Xperia 10 2 ",
             "prix": " 335,00 €",
-            " catégorie": " Sony ",
-            " disponibilité": [
+            "catégorie": " Sony ",
+            "disponibilité": [
                 " Moscow ",
                 " Berlin ",
                 " Madrid ",
@@ -165,8 +165,8 @@
                 " Marrakech ",
                 " New York "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -174,8 +174,8 @@
             "ID": "511926334791409",
             "désignation": " LG G6 ",
             "prix": " 171,88 €",
-            " catégorie": " LG ",
-            " disponibilité": [
+            "catégorie": " LG ",
+            "disponibilité": [
                 " New York ",
                 " Moscow ",
                 " Berlin ",
@@ -185,17 +185,17 @@
                 " Pékin ",
                 " Ottawa"
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
         {
-            " ID ": "471126034701209",
-            " désignation": " Huawei P Smart 2019 ",
-            " prix ": " 173,25 €",
-            " catégorie ": " Huawei ",
-            " disponibilité ": [
+            "ID": "471126034701209",
+            "désignation": " Huawei P Smart 2019 ",
+            "prix": " 173,25 €",
+            "catégorie": " Huawei ",
+            "disponibilité": [
                 " Berlin ",
                 " Casablanca ",
                 " Ottawa ",
@@ -206,8 +206,8 @@
                 " Moscow ",
                 " Pékin "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 " Adresse ": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -215,8 +215,8 @@
             "ID": "201539030193094",
             "désignation": " Sony Xperia XZ3 ",
             "prix": " 299,00 €",
-            " catégorie ": " Sony ",
-            " disponibilité": [
+            "catégorie": " Sony ",
+            "disponibilité": [
                 " Ottawa",
                 " New York ",
                 " Casablanca ",
@@ -228,8 +228,8 @@
                 " Le Caire ",
                 " Agadir "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -237,8 +237,8 @@
             "ID": "131936309172017",
             "désignation": " Samsung Galaxy A41 ",
             "prix": " 260,00 €",
-            " catégorie": " Samsung Galaxy ",
-            " disponibilité": [
+            "catégorie": " Samsung Galaxy ",
+            "disponibilité": [
                 " Milan ",
                 " Madrid ",
                 " Tangier ",
@@ -248,8 +248,8 @@
                 " Pékin ",
                 " Casablanca "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -257,8 +257,8 @@
             "ID": "238931309074097",
             "désignation": " Samsung Galaxy S21 Ultra ",
             "prix": " 935,00 €",
-            " catégorie": " Samsung Galaxy ",
-            " disponibilité": [
+            "catégorie": " Samsung Galaxy ",
+            "disponibilité": [
                 " Milan ",
                 " Madrid ",
                 " Tangier ",
@@ -268,17 +268,17 @@
                 " Pékin ",
                 " Casablanca "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
         {
-            " ID ": " 791736190613103 ",
-            " désignation ": " Nokia 8.3 5G ",
-            " prix ": " 398,99 € ",
-            " catégorie": " Nokia  ",
-            " disponibilité": [
+            "ID": " 791736190613103 ",
+            "désignation": " Nokia 8.3 5G ",
+            "prix": " 398,99 € ",
+            "catégorie": " Nokia  ",
+            "disponibilité": [
                 " Pékin ",
                 " Ottawa",
                 " Tangier ",
@@ -287,8 +287,8 @@
                 " Casablanca ",
                 " Berlin "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
@@ -296,8 +296,8 @@
             "ID": "861536030196001",
             "désignation": " iPhone 13 Pro Max ",
             "prix": " 1159,20 €",
-            " catégorie": " iPhone ",
-            " disponibilité": [
+            "catégorie": " iPhone ",
+            "disponibilité": [
                 " Madrid ",
                 " Milan ",
                 " Paris ",
@@ -306,17 +306,17 @@
                 " Le Caire ",
                 " London "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
         {
-            " ID ": " 521536030913021 ",
-            " désignation ": " Oppo A9 2020 ",
-            " prix ": " 169,00 € ",
-            " catégorie": " Oppo  ",
-            " disponibilité": [
+            "ID": " 521536030913021 ",
+            "désignation": " Oppo A9 2020 ",
+            "prix": " 169,00 € ",
+            "catégorie": " Oppo  ",
+            "disponibilité": [
                 " London ",
                 " Le Caire ",
                 " Madrid ",
@@ -328,8 +328,8 @@
                 " New York ",
                 " Tokyo "
             ],
-            " fournisseur": {
-                "Raison Sociale": "gsm55",
+            "fournisseur": {
+                "Raison": "gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         }
