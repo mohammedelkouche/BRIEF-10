@@ -8,17 +8,12 @@
             "disponibilité": [
                 " Paris ",
                 " Casablanca ",
-                " Madrid ",
                 " Tangier ",
                 " London ",
-                " Milan ",
-                " New York ",
-                " Le Caire ",
-                " Agadir ",
-                " Marrakech "
+                " New York "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Gsm55",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -28,21 +23,14 @@
             "prix": " 959 € ",
             "catégorie": " iPhone ",
             "disponibilité": [
-                " Casablanca ",
                 " Madrid ",
                 " Pékin ",
                 " Moscow ",
-                " Tangier ",
-                " London ",
                 " Milan ",
-                " New York ",
-                " Paris ",
-                " Le Caire ",
-                " Tokyo ",
-                " Marrakech "
+                " Le Caire "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Wsz",
                 "Adresse": "30, bis rue Girard 93100 Montreuil "
             }
         },
@@ -53,43 +41,30 @@
             "catégorie": " Huawei  ",
             "disponibilité": [
                 " Paris ",
-                " Casablanca ",
                 " Madrid ",
                 " Pékin ",
-                " Moscow ",
                 " Tangier ",
-                " London ",
-                " Berlin ",
-                " New York ",
-                " Le Caire ",
-                " Tokyo ",
                 " Marrakech "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "Wooz",
+                "Adresse": "30, bis rue Girard 93180 Montreuil "
             }
         },
         {
-            "ID": " 521536030913021 ",
+            "ID": " 724576030313021 ",
             "désignation": " Oppo A53s ",
             "prix": " 244 € ",
             "catégorie": " Oppo  ",
             "disponibilité": [
-                " Casablanca ",
-                " Madrid ",
                 " Pékin ",
-                " Ottawa",
-                " Tangier ",
                 " London ",
                 " Berlin ",
-                " New York ",
-                " Le Caire ",
-                " Tokyo "
+                " New York "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "Zoler",
+                "Adresse": "30, bis rue Girard 93102 Montreuil "
             }
         },
         {
@@ -99,17 +74,13 @@
             "catégorie": " Nokia  ",
             "disponibilité": [
                 " Casablanca ",
-                " Pékin ",
-                " Ottawa",
                 " Tangier ",
-                " London ",
                 " Berlin ",
-                " New York ",
                 " Tokyo "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "Azer",
+                "Adresse": "30, bis rue Girard 93120 Montreuil "
             }
         },
         {
@@ -118,17 +89,15 @@
             "prix": " 704 €  ",
             "catégorie": " iPhone ",
             "disponibilité": [
-                " Casablanca ",
                 " Madrid ",
                 " Ottawa",
                 " Moscow ",
-                " Rabat ",
                 " New York ",
                 " Tokyo "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "Nast",
+                "Adresse": "30, bis rue Girard 93104 Montreuil "
             }
         },
         {
@@ -138,17 +107,14 @@
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Casablanca ",
-                " Madrid ",
                 " Tangier ",
                 " Ottawa",
-                " Marrakech ",
-                " Milan ",
                 " New York ",
                 " Le Caire "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil"
+                "Raison": "Moli",
+                "Adresse": "30, bis rue Girard 93200 Montreuil"
             }
         },
         {
@@ -159,14 +125,12 @@
             "disponibilité": [
                 " Moscow ",
                 " Berlin ",
-                " Madrid ",
                 " Tangier ",
                 " Ottawa",
-                " Marrakech ",
                 " New York "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Cater",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -179,14 +143,12 @@
                 " New York ",
                 " Moscow ",
                 " Berlin ",
-                " Casablanca ",
                 " Madrid ",
-                " Tangier ",
                 " Pékin ",
                 " Ottawa"
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Wool",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -197,17 +159,14 @@
             "catégorie": " Huawei ",
             "disponibilité": [
                 " Berlin ",
-                " Casablanca ",
                 " Ottawa ",
-                " Madrid ",
                 " Tangier ",
                 " New York ",
                 " Le Caire ",
-                " Moscow ",
                 " Pékin "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Tskdj",
                 " Adresse ": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -219,17 +178,13 @@
             "disponibilité": [
                 " Ottawa",
                 " New York ",
-                " Casablanca ",
                 " Madrid ",
-                " Tangier ",
                 " London ",
                 " Milan ",
-                " Paris ",
-                " Le Caire ",
                 " Agadir "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
+                "Raison": "Boik",
                 "Adresse": "30, bis rue Girard 93100 Montreuil"
             }
         },
@@ -240,17 +195,14 @@
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Milan ",
-                " Madrid ",
                 " Tangier ",
                 " Ottawa",
-                " Marrakech ",
-                " Paris ",
                 " Pékin ",
                 " Casablanca "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil"
+                "Raison": "Psjx",
+                "Adresse": "30, bis rue Girard 13100 Montreuil"
             }
         },
         {
@@ -260,17 +212,14 @@
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Milan ",
-                " Madrid ",
                 " Tangier ",
                 " Ottawa",
-                " Marrakech ",
                 " Paris ",
-                " Pékin ",
                 " Casablanca "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil"
+                "Raison": "Yard",
+                "Adresse": "30, bis rue Girard 53100 Montreuil"
             }
         },
         {
@@ -280,16 +229,14 @@
             "catégorie": " Nokia  ",
             "disponibilité": [
                 " Pékin ",
-                " Ottawa",
                 " Tangier ",
                 " Tokyo ",
                 " London ",
-                " Casablanca ",
                 " Berlin "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "Docdsm",
+                "Adresse": "30, bis rue Girard 33100 Montreuil "
             }
         },
         {
@@ -299,16 +246,14 @@
             "catégorie": " iPhone ",
             "disponibilité": [
                 " Madrid ",
-                " Milan ",
                 " Paris ",
                 " Casablanca ",
                 " New York ",
-                " Le Caire ",
                 " London "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil"
+                "Raison": "Otsm5",
+                "Adresse": "30, bis rue Girard 23100 Montreuil"
             }
         },
         {
@@ -319,18 +264,14 @@
             "disponibilité": [
                 " London ",
                 " Le Caire ",
-                " Madrid ",
                 " Pékin ",
-                " Ottawa",
                 " Tangier ",
-                " Berlin ",
                 " Casablanca ",
-                " New York ",
                 " Tokyo "
             ],
             "fournisseur": {
-                "Raison": "gsm55",
-                "Adresse": "30, bis rue Girard 93100 Montreuil "
+                "Raison": "AsmDF5",
+                "Adresse": "30, bis rue Girard 63100 Montreuil "
             }
         }
     ]
