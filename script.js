@@ -25,12 +25,11 @@ $(document).ready(function(){
             // pushdata += '</tr>';
            
             var ul = document.createElement("ul");
-            for(var i = 0; i < info_data.length; i++){
-
-            var dispolist = info_data[i]["disponibilité"] ;
-            
-
-            }
+            $.each(value.disponibilité,function(key,element){
+                var li = document.createElement("li");
+                li.innerHTML=element ;
+                ul.appendChild(li);
+            })
 
             // syntax 2
            
@@ -41,7 +40,7 @@ $(document).ready(function(){
                         <td>${value.désignation}</td>
                         <td>${value.prix}</td>
                         <td>${value.catégorie}</td>
-                        <td>${value.disponibilité}</td>
+                        <td>${ul.innerHTML}</td>
                         <td><li>${value.fournisseur.Raison}</li><li>${value.fournisseur.Adresse}</li></td>
                     </tr>`
 
