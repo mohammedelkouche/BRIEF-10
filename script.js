@@ -61,12 +61,60 @@ $(document).ready(function(){
 
     });
 
-    // filter by search
+        // filter by search
+
     $("#myInput").on("keyup", function() {
         var value = $(this).val().toLowerCase();
         $("#table_body tr").filter(function() {
             $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
     });
+       
+        // sort
+    
+    $("th").each(function(column){
+        // column: is the index of each th
+
+        /* i will use the hover in and hover out using hover
+        event so we use to function 
+        */
+
+        $(this).hover(function(){
+            $(this).addClass("clickable"); 
+        },function(){
+            $(this).removeClass("clickable"); 
+        });
+        $(this).click(function(){
+
+            // find and select are the tr element witshes is cheld of tbody
+
+            var records = $("table").find("tbody > tr"); 
+            records.sort(function(a,b){
+
+                // The :eq() selector selects an element with a specific index number.
+                var value1 = $(a).children("td").eq(column).text();
+                var value2 = $(b).children("td").eq(column).text();
+
+                if(value1.toUpperCase()< value2.toUpperCase()){
+                    return -1;
+                }
+                else if (value1.toUpperCase() > value2.toUpperCase()){
+                    return 1;
+                }    
+                else{
+                    return 0;
+                }
+
+                // return(value1<value2) ? -1 : (value1>value2 ? 1 : 0)
+                
+            })
+            $.each(records,function(index , row){
+                    $("tbody").append(row);
+            })
+        })
+    })     
+
+
+
          
 })
