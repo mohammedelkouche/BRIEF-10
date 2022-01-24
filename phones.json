@@ -3,7 +3,7 @@
         {
             "ID": "861536030196001",
             "désignation": " Galaxy S21+ 5G ",
-            "prix": " 859 €",
+            "prix":  859 ,
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Paris ",
@@ -20,7 +20,7 @@
         {
             "ID": " 311596030136021 ",
             "désignation": " iPhone 12 Pro ",
-            "prix": " 959 € ",
+            "prix":  959  ,
             "catégorie": " iPhone ",
             "disponibilité": [
                 " Madrid ",
@@ -37,7 +37,7 @@
         {
             "ID": " 921591030186125 ",
             "désignation": " Huawei P30 Pro ",
-            "prix": " 640 € ",
+            "prix":  640 ,
             "catégorie": " Huawei  ",
             "disponibilité": [
                 " Paris ",
@@ -54,7 +54,7 @@
         {
             "ID": " 724576030313021 ",
             "désignation": " Oppo A53s ",
-            "prix": " 244 € ",
+            "prix":  244 ,
             "catégorie": " Oppo  ",
             "disponibilité": [
                 " Pékin ",
@@ -70,7 +70,7 @@
         {
             "ID": " 191136090213493 ",
             "désignation": " Nokia 7 plus ",
-            "prix": " 381, 71 € ",
+            "prix": 381.71  ,
             "catégorie": " Nokia  ",
             "disponibilité": [
                 " Casablanca ",
@@ -84,9 +84,9 @@
             }
         },
         {
-            "ID": " 3936290713491 ",
+            "ID": " 393629071349184 ",
             "désignation": " iPhone 11 Pro Max ",
-            "prix": " 704 €  ",
+            "prix":  704  ,
             "catégorie": " iPhone ",
             "disponibilité": [
                 " Madrid ",
@@ -103,7 +103,7 @@
         {
             "ID": "921536030192039",
             "désignation": " Samsung Galaxy A50 ",
-            "prix": " 229,29 €",
+            "prix":  229.29 ,
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Casablanca ",
@@ -120,7 +120,7 @@
         {
             "ID": "161516034192909",
             "désignation": " Sony Xperia 10 2 ",
-            "prix": " 335,00 €",
+            "prix":  335.00 ,
             "catégorie": " Sony ",
             "disponibilité": [
                 " Moscow ",
@@ -137,7 +137,7 @@
         {
             "ID": "511926334791409",
             "désignation": " LG G6 ",
-            "prix": " 171,88 €",
+            "prix":  171.88 ,
             "catégorie": " LG ",
             "disponibilité": [
                 " New York ",
@@ -155,7 +155,7 @@
         {
             "ID": "471126034701209",
             "désignation": " Huawei P Smart 2019 ",
-            "prix": " 173,25 €",
+            "prix":  173.25 ,
             "catégorie": " Huawei ",
             "disponibilité": [
                 " Berlin ",
@@ -173,7 +173,7 @@
         {
             "ID": "201539030193094",
             "désignation": " Sony Xperia XZ3 ",
-            "prix": " 299,00 €",
+            "prix":  299.00 ,
             "catégorie": " Sony ",
             "disponibilité": [
                 " Ottawa",
@@ -191,7 +191,7 @@
         {
             "ID": "131936309172017",
             "désignation": " Samsung Galaxy A41 ",
-            "prix": " 260,00 €",
+            "prix":  260.00 ,
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Milan ",
@@ -208,7 +208,7 @@
         {
             "ID": "238931309074097",
             "désignation": " Samsung Galaxy S21 Ultra ",
-            "prix": " 935,00 €",
+            "prix":  935.00 ,
             "catégorie": " Samsung Galaxy ",
             "disponibilité": [
                 " Milan ",
@@ -225,7 +225,7 @@
         {
             "ID": " 791736190613103 ",
             "désignation": " Nokia 8.3 5G ",
-            "prix": " 398,99 € ",
+            "prix":  398.99  ,
             "catégorie": " Nokia  ",
             "disponibilité": [
                 " Pékin ",
@@ -242,7 +242,7 @@
         {
             "ID": "861536030196001",
             "désignation": " iPhone 13 Pro Max ",
-            "prix": " 1159,20 €",
+            "prix":  1159.20 ,
             "catégorie": " iPhone ",
             "disponibilité": [
                 " Madrid ",
@@ -259,7 +259,7 @@
         {
             "ID": " 521536030913021 ",
             "désignation": " Oppo A9 2020 ",
-            "prix": " 169,00 € ",
+            "prix":  169.00  ,
             "catégorie": " Oppo  ",
             "disponibilité": [
                 " London ",

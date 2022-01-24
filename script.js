@@ -74,38 +74,53 @@ $(document).ready(function(){
     
     $("th").each(function(column){
         // column: is the index of each th
-
+            // console.log(column)
         /* i will use the hover in and hover out using hover
         event so we use to function 
         */
 
         $(this).hover(function(){
+        /* .data( key, value )
+        key
+        Type: String
+        A string naming the piece of data to set.
+        value
+        Type: Anything
+        The new data value; this can be any Javascript type except */
+            $(this).data("type",$(this).attr("class")); 
             $(this).addClass("clickable"); 
         },function(){
             $(this).removeClass("clickable"); 
         });
         $(this).click(function(){
+            var type = $(this).data("type");
 
-            // find and select are the tr element witshes is cheld of tbody
+            // find and select are the tr element witshes is child of tbody
 
             var records = $("table").find("tbody > tr"); 
-            records.sort(function(a,b){
+            records.sort(function(a,b,asc){
 
                 // The :eq() selector selects an element with a specific index number.
                 var value1 = $(a).children("td").eq(column).text();
                 var value2 = $(b).children("td").eq(column).text();
+                if(type == "nbr"){
+                    value1 *= 1 ;
+                    value2 *= 1 ;
 
-                if(value1.toUpperCase()< value2.toUpperCase()){
-                    return -1;
                 }
-                else if (value1.toUpperCase() > value2.toUpperCase()){
-                    return 1;
-                }    
-                else{
-                    return 0;
-                }
+                
 
-                // return(value1<value2) ? -1 : (value1>value2 ? 1 : 0)
+                // if(value1.toUpperCase()< value2.toUpperCase()){
+                //     return -1;
+                // }
+                // else if (value1.toUpperCase() > value2.toUpperCase()){
+                //     return 1;
+                // }    
+                // else{
+                //     return 0;
+                // }
+
+                return(value1<value2) ? -1 : (value1>value2 ? 1 : 0)
                 
             })
             $.each(records,function(index , row){
