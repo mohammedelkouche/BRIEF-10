@@ -1,7 +1,6 @@
 
 // $(document).ready() 
 // This is to prevent any jQuery code from running before the document is finished loading (is ready).
-
 $(document).ready(function(){
 
     // jQuery methods go here...
@@ -69,12 +68,23 @@ $(document).ready(function(){
             $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
     });
+
+
+    //     thead = document.querySelector("th")
+    //     console.log(thead)
+    //     thead.innerHTML += `
+    //     <select >
+    //     <option >asc</option>
+    //     <option >desc</option>
+    //     <option >num</option>
+    //     </select>
+    //   `
        
         // sort
     
     $("th").each(function(column){
         // column: is the index of each th
-            // console.log(column)
+            console.log(column)
         /* i will use the hover in and hover out using hover
         event so we use to function 
         */
@@ -87,20 +97,30 @@ $(document).ready(function(){
         value
         Type: Anything
         The new data value; this can be any Javascript type except */
-            $(this).data("type",$(this).attr("class")); 
+        // .attr() : définit un attribut et sa valeur ou simplement récupère sa valeur
+
+            $(this).data("type",$(this).attr("class"));
+            // console.log(this) 
             $(this).addClass("clickable"); 
         },function(){
             $(this).removeClass("clickable"); 
         });
+
         $(this).click(function(){
+        // $(this).addEventListener('click',function count(){
+            // console.log(count)
+
             var type = $(this).data("type");
 
             // find and select are the tr element witshes is child of tbody
 
             var records = $("table").find("tbody > tr"); 
-            records.sort(function(a,b,asc){
-
+            records.sort(function(a,b){
+                
+            
                 // The :eq() selector selects an element with a specific index number.
+                // .text() : remplace le texte de la page
+
                 var value1 = $(a).children("td").eq(column).text();
                 var value2 = $(b).children("td").eq(column).text();
                 if(type == "nbr"){
@@ -108,7 +128,13 @@ $(document).ready(function(){
                     value2 *= 1 ;
 
                 }
-                
+                    return(value1<value2) ? -1 : (value1>value2 ? 1 : 0)
+
+                // }
+                // else{
+                    // return(value1>value2) ? -1 : (value1<value2 ? 1 : 0)
+
+                // }
 
                 // if(value1.toUpperCase()< value2.toUpperCase()){
                 //     return -1;
@@ -120,7 +146,6 @@ $(document).ready(function(){
                 //     return 0;
                 // }
 
-                return(value1<value2) ? -1 : (value1>value2 ? 1 : 0)
                 
             })
             $.each(records,function(index , row){
